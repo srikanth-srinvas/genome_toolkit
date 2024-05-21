@@ -4,7 +4,7 @@ class genomeToolkit:
         print("[Genome Toolkit Initiated]\n")
 
     def count_kmer(self, sequence, kmer):
-"""
+        """
         Counts the number of times a specific k-mer appears in a given sequence,
         including overlapping k-mers.
 
